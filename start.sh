@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /miner
+cd /home/miner/claymore14
 
 export DISPLAY=:0
 sudo nvidia-settings -a GPUMemoryTransferRateOffset[3]=1111
