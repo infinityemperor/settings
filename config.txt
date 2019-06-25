@@ -1,0 +1,11 @@
+-epool asia1.ethermine.org:4444
+-ewal 0x2f35b6037AD09A328D37e22DAF93eB751D64feF8.0001
+-epsw x
+-esm 0
+-estale 0
+-mode 1
+-asm  1
+-tstop 95
+-ftime 10
+-wd 1
+-r  0
